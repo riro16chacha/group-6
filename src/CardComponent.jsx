@@ -1,5 +1,5 @@
 import React from "react";
-function Card(){
+export function Card(){
     return(
         <>
         <h1 className="text-red-300">Product Card</h1>
@@ -13,4 +13,3 @@ function Card(){
         </>
     )
 }
-export default Card
